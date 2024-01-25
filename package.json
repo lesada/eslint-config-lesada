@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lesada",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint config for React projects",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,13 @@
     "eslint-plugin-unused-imports": "^3.0.0",
     "prettier": "^3.0.0"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslint-config-lesada",
+    "react",
+    "typescript"
+  ],
+  "author": "Lauren Leslie Ferreira",
   "license": "ISC"
 }
