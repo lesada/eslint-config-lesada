@@ -29,6 +29,7 @@ module.exports = {
         newlinesBetween: "always",
         groups: [
           "/^react$/",
+          "/^react-native$/",
           "/^next$/",
           "module",
           "/^@//",
